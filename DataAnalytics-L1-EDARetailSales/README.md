@@ -34,7 +34,7 @@ Analysis Performed
 
 Project File
 
-"Oasis_Infobyte_EDA_Task1.ipynb" – Contains the Python code, analysis, and visualizations.
+"Aarti_Task1.ipynb" – Contains the Python code, analysis, and visualizations.
 
 Conclusion
 
